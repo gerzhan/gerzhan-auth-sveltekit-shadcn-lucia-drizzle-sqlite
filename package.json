@@ -47,6 +47,7 @@
   },
   "type": "module",
   "dependencies": {
+    "better-sqlite3": "^9.2.2",
     "clsx": "^2.0.0",
     "dotenv": "^16.3.1",
     "drizzle-orm": "^0.29.2",
