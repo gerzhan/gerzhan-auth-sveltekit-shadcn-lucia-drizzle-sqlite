@@ -18,7 +18,9 @@
     "test:integration": "playwright test",
     "test:unit": "vitest",
     "db:push": "drizzle-kit push:sqlite --config=drizzle.config.ts",
-    "db:studio": "drizzle-kit studio"
+    "db:studio": "drizzle-kit studio",
+    "db:check": "drizzle-kit check:sqlite --config=drizzle.config.ts",
+    "db:generate": "drizzle-kit generate:sqlite --config=drizzle.config.ts"
   },
   "devDependencies": {
     "@playwright/test": "^1.28.1",
