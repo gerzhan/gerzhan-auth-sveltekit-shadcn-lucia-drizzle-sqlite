@@ -8,6 +8,5 @@
 <p>
   Visit <a
     href="https://kit.svelte.dev"
-    class="bg-red-300">kit.svelte.dev</a
-  > to read the documentation
+    class="bg-red-300">kit.svelte.dev</a> to read the documentation
 </p>

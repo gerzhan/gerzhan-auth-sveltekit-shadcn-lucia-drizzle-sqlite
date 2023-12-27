@@ -3,7 +3,7 @@
   "singleQuote": true,
   "svelteBracketNewLine": false,
   "singleAttributePerLine": true,
-  "bracketSameLine": false,
+  "bracketSameLine": true,
   "trailingComma": "none",
   "printWidth": 180,
   "plugins": [
